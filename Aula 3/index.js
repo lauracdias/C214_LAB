@@ -11,7 +11,7 @@ num2 = parseInt(num2, 10);
 
 console.log("\nConsiderando os números ", num1, " e ", num2, ", escolha uma das seguintes operações:\n");
 
-op = prompt("+ (adição), - (subtração), / (divisão), ^ (potenciação) ou * (multiplicação): ");
+op = prompt("+ (adição), - (subtração), / (divisão), ^ (potenciação), * (multiplicação) ou % (resto da divisão): ");
 
 resp = Calculadora.resultado(num1, num2, op);
 
