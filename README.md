@@ -6,7 +6,7 @@ A calculadora possui 6 operações:
 * multiplicação
 * divisão 
 * exponenciação 
-* resto da divisão)
+* resto da divisão
 
 ## Configurações de ambiente
 
@@ -33,7 +33,7 @@ Após concluir as etapas acima, basta digitar o seguinte comando para iniciar a 
 
 ## Exemplo
 
-Após a inicialização da calculadora, fornceça dois números inteiros:
+Após a inicialização da calculadora, forneça dois números inteiros:
 
     2
     3
